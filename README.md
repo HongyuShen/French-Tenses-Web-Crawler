@@ -14,7 +14,7 @@ Included French tenses:
 * Subjonctif présent
 * Conditionnel présent
 
-So far the list contains 787 verbs: https://rb.gy/oarbrv
+So far the list contains 790 verbs: https://rb.gy/oarbrv
 
 ## Configuration
 Preferred IDE: PyCharm
