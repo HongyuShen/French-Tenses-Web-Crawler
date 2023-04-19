@@ -4,17 +4,18 @@
 This Python program is designed for aiding Latin language learners to memorize the verb conjugations.
 
 Included French tenses:
+* Participe présent
 * Présent
 * Imparfait
 * Futur
 * Passé composé
 * Plus-que-parfait
-* Passé antérieur
 * Futur antérieur
 * Subjonctif présent
 * Conditionnel présent
+* Conditionnel passé
 
-So far the list contains 790 verbs: https://rb.gy/oarbrv
+So far the list contains 794 verbs: https://rb.gy/oarbrv
 
 ## Configuration
 Preferred IDE: PyCharm
