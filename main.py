@@ -106,11 +106,11 @@ def find_all_tenses_for_one_verb(verb):
                 if not separate_masculine_feminine:
                     if item_count == 3 and content[0:3] != "il/":
                         masculine = content
-
                         long_version = True
                         separate_masculine_feminine = True
                     elif item_count == 7 and content[0:4] != "ils/":
                         masculine = content
+                        separate_masculine_feminine = True
                     else:
                         current_verb_list.append(content)
                         current_verb_list.append(",")
