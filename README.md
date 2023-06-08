@@ -5,6 +5,7 @@ This Python program is designed for aiding Latin language learners to memorize t
 
 Included French tenses:
 * Participe présent
+* Impératif présent
 * Présent
 * Imparfait
 * Futur
@@ -15,7 +16,7 @@ Included French tenses:
 * Conditionnel présent
 * Conditionnel passé
 
-So far the list contains 832 verbs: https://rb.gy/oarbrv
+So far the list contains 874 verbs: https://rb.gy/oarbrv
 
 ## Configuration
 Preferred IDE: PyCharm
