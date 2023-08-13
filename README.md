@@ -16,7 +16,7 @@ Included French tenses:
 * Conditionnel présent
 * Conditionnel passé
 
-So far the list contains 874 verbs: https://rb.gy/oarbrv
+So far the list contains 926 verbs: https://rb.gy/oarbrv
 
 ## Configuration
 Preferred IDE: PyCharm
@@ -27,4 +27,4 @@ How to run the program:
 3. Result will be output in Microsoft Excel format as "Temps En Français"
 
 ## Utility
-The result can be used in Text-to-Speech applications like: https://ttsreader.com/ 
+The result can be used in Text-to-Speech applications like: https://ttsreader.com/
