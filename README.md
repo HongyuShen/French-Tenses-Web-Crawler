@@ -16,7 +16,7 @@ Included French tenses:
 * Conditionnel présent
 * Conditionnel passé
 
-So far the list contains 926 verbs: https://rb.gy/oarbrv
+So far the list contains 938 verbs: https://rb.gy/oarbrv
 
 ## Configuration
 Preferred IDE: PyCharm
